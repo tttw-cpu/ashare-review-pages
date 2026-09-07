@@ -1,6 +1,8 @@
 name: Update market snapshot and deploy Pages
 
 on:
+  push:
+    branches: [main]
   schedule:
     # 08:40 UTC = 16:40 Asia/Shanghai, Monday through Friday.
     - cron: "40 8 * * 1-5"
