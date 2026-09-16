@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-15",
-  "source": "https://lianban.net/days/2026-09-15.html",
-  "updatedAt": "2026-09-15T13:50:50+00:00",
+  "date": "2026-09-16",
+  "source": "https://lianban.net/days/2026-09-16.html",
+  "updatedAt": "2026-09-16T13:42:47+00:00",
   "stats": {
-    "up": 32,
-    "consecutive": 7,
-    "highest": 5,
-    "down": 27,
-    "seal": 57.1,
-    "broken": 24,
-    "cycle": "冰点",
+    "up": 89,
+    "consecutive": 12,
+    "highest": 6,
+    "down": 4,
+    "seal": 89.0,
+    "broken": 11,
+    "cycle": "高潮",
     "themes": [
-      "风电",
-      "AI应用",
       "通信",
-      "锂电池",
-      "芯片"
+      "芯片",
+      "化工",
+      "算力",
+      "海峡两岸"
     ],
-    "temperature": "5",
-    "turnover": "1.61万亿",
-    "upDown": "1,120/4,376"
+    "temperature": "85",
+    "turnover": "1.84万亿",
+    "upDown": "4,170/1,189"
   },
   "mainlines": [
     {
-      "name": "PCB板",
-      "count": 6,
-      "leader": "澳弘电子"
-    },
-    {
-      "name": "固态电池",
-      "count": 8,
-      "leader": "金龙羽"
+      "name": "光通信",
+      "count": 17,
+      "leader": "瑞玛精密"
     },
     {
       "name": "国产芯片",
-      "count": 2,
-      "leader": "大为股份"
+      "count": 17,
+      "leader": "德尔未来"
     },
     {
-      "name": "风电",
+      "name": "PCB板",
+      "count": 10,
+      "leader": "澳弘电子"
+    },
+    {
+      "name": "大消费",
       "count": 6,
-      "leader": "天顺风能"
+      "leader": "三夫户外"
     }
   ],
   "ladder": [
     {
-      "board": 5,
+      "board": 6,
       "count": 1,
       "prior": "—",
       "names": [
@@ -58,49 +58,49 @@
       "count": 1,
       "prior": "—",
       "names": [
-        "中新赛克"
+        "澳弘电子"
       ],
       "subjects": []
     },
     {
       "board": 3,
-      "count": 2,
+      "count": 1,
       "prior": "—",
       "names": [
-        "澳弘电子",
-        "双星新材"
+        "博汇科技"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 3,
+      "count": 9,
       "prior": "—",
       "names": [
-        "启明信息",
-        "博汇科技",
-        "宏盛股份"
+        "通鼎互联",
+        "中晶科技",
+        "德尔未来",
+        "北自科技",
+        "西陇科学",
+        "会稽山",
+        "华瓷股份",
+        "锡华科技",
+        "英联股份"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 13,
+      "count": 8,
       "prior": "—",
       "names": [
-        "吉鑫科技",
-        "大金重工",
-        "天顺风能",
-        "锡华科技",
-        "中闽能源",
-        "汉王科技",
-        "华正新材",
-        "欧克科技",
-        "通鼎互联",
-        "金龙羽",
-        "上海洗霸",
-        "诺德股份",
-        "英联股份"
+        "中岩大地",
+        "中瓷电子",
+        "华脉科技",
+        "威尔高",
+        "远望谷",
+        "青山纸业",
+        "瑞玛精密",
+        "光迅科技"
       ],
       "subjects": []
     }
@@ -111,14 +111,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20260915",
-    "sampleCount": 2113,
-    "current": 13.36,
+    "endDate": "20260916",
+    "sampleCount": 2114,
+    "current": 13.4,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.6,
     "high": 14.88,
-    "percentile": 58.9,
+    "percentile": 59.4,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -539,31 +539,20 @@
         "pe": 14.53
       },
       {
-        "date": "2026-09-15",
-        "pe": 13.36
+        "date": "2026-09-16",
+        "pe": 13.4
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-08-17",
-      "height": 4,
-      "names": [
-        "天洋新材",
-        "金螳螂",
-        "澳洋健康"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-08-18",
       "height": 4,
       "names": [
         "神奇制药"
       ],
-      "pressure": 4,
-      "state": "触压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-08-19",
@@ -749,6 +738,15 @@
       ],
       "pressure": 5,
       "state": "触压"
+    },
+    {
+      "date": "2026-09-16",
+      "height": 6,
+      "names": [
+        "闽东电力"
+      ],
+      "pressure": 5,
+      "state": "突破"
     }
   ],
   "strategyBacktest": {
@@ -757,8 +755,8 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-08-05",
-      "2026-09-15"
+      "2026-08-06",
+      "2026-09-16"
     ],
     "requestedSessions": 30,
     "checkedPairs": 29,
@@ -934,7 +932,7 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-09-15T13:50:50+00:00"
+    "generatedAt": "2026-09-16T13:42:38+00:00"
   },
   "strategyMcpDays": {
     "2026-07-28": {
@@ -1152,6 +1150,12 @@
       "cycle": "冰点期",
       "seal": 57.1,
       "highest": 5
+    },
+    "2026-09-16": {
+      "date": "2026-09-16",
+      "cycle": "高潮期",
+      "seal": 89.0,
+      "highest": 6
     }
   },
   "errors": []
