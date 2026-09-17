@@ -1,60 +1,51 @@
 {
-  "date": "2026-09-16",
-  "source": "https://lianban.net/days/2026-09-16.html",
-  "updatedAt": "2026-09-16T13:42:47+00:00",
+  "date": "2026-09-17",
+  "source": "https://lianban.net/days/2026-09-17.html",
+  "updatedAt": "2026-09-17T13:45:29+00:00",
   "stats": {
-    "up": 89,
-    "consecutive": 12,
-    "highest": 6,
-    "down": 4,
-    "seal": 89.0,
-    "broken": 11,
-    "cycle": "高潮",
+    "up": 47,
+    "consecutive": 9,
+    "highest": 5,
+    "down": 1,
+    "seal": 70.1,
+    "broken": 20,
+    "cycle": "退潮",
     "themes": [
+      "机器人概念",
+      "农业",
       "通信",
-      "芯片",
-      "化工",
-      "算力",
-      "海峡两岸"
+      "汽车类",
+      "烟草"
     ],
-    "temperature": "85",
-    "turnover": "1.84万亿",
-    "upDown": "4,170/1,189"
+    "temperature": "43",
+    "turnover": "1.82万亿",
+    "upDown": "2,576/2,820"
   },
   "mainlines": [
     {
-      "name": "光通信",
-      "count": 17,
-      "leader": "瑞玛精密"
+      "name": "机器人",
+      "count": 6,
+      "leader": "科森科技"
+    },
+    {
+      "name": "烟草",
+      "count": 3,
+      "leader": "新宏泽"
+    },
+    {
+      "name": "新能源汽车",
+      "count": 6,
+      "leader": "众泰汽车"
     },
     {
       "name": "国产芯片",
-      "count": 17,
-      "leader": "德尔未来"
-    },
-    {
-      "name": "PCB板",
-      "count": 10,
-      "leader": "澳弘电子"
-    },
-    {
-      "name": "大消费",
-      "count": 6,
-      "leader": "三夫户外"
+      "count": 1,
+      "leader": "中晶科技"
     }
   ],
   "ladder": [
     {
-      "board": 6,
-      "count": 1,
-      "prior": "—",
-      "names": [
-        "闽东电力"
-      ],
-      "subjects": []
-    },
-    {
-      "board": 4,
+      "board": 5,
       "count": 1,
       "prior": "—",
       "names": [
@@ -64,43 +55,44 @@
     },
     {
       "board": 3,
-      "count": 1,
+      "count": 3,
       "prior": "—",
       "names": [
-        "博汇科技"
+        "中晶科技",
+        "锡华科技",
+        "华瓷股份"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 9,
+      "count": 5,
       "prior": "—",
       "names": [
-        "通鼎互联",
-        "中晶科技",
-        "德尔未来",
-        "北自科技",
-        "西陇科学",
-        "会稽山",
-        "华瓷股份",
-        "锡华科技",
-        "英联股份"
+        "万向德农",
+        "中岩大地",
+        "内蒙新华",
+        "世联行",
+        "共达电声"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 8,
+      "count": 11,
       "prior": "—",
       "names": [
-        "中岩大地",
-        "中瓷电子",
-        "华脉科技",
-        "威尔高",
-        "远望谷",
-        "青山纸业",
-        "瑞玛精密",
-        "光迅科技"
+        "科森科技",
+        "北特科技",
+        "天海电子",
+        "凯迪股份",
+        "均胜电子",
+        "克来机电",
+        "金健米业",
+        "敦煌种业",
+        "华英农业",
+        "世嘉科技",
+        "安凯客车"
       ],
       "subjects": []
     }
@@ -111,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20260916",
-    "sampleCount": 2114,
-    "current": 13.4,
+    "endDate": "20260917",
+    "sampleCount": 2115,
+    "current": 13.34,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.6,
     "high": 14.88,
-    "percentile": 59.4,
+    "percentile": 58.7,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -539,21 +531,12 @@
         "pe": 14.53
       },
       {
-        "date": "2026-09-16",
-        "pe": 13.4
+        "date": "2026-09-17",
+        "pe": 13.34
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-08-18",
-      "height": 4,
-      "names": [
-        "神奇制药"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-08-19",
       "height": 3,
@@ -562,8 +545,8 @@
         "红四方",
         "京粮控股"
       ],
-      "pressure": 4,
-      "state": "承压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-08-20",
@@ -571,8 +554,8 @@
       "names": [
         "金健米业"
       ],
-      "pressure": 4,
-      "state": "触压"
+      "pressure": 3,
+      "state": "突破"
     },
     {
       "date": "2026-08-21",
@@ -747,6 +730,15 @@
       ],
       "pressure": 5,
       "state": "突破"
+    },
+    {
+      "date": "2026-09-17",
+      "height": 5,
+      "names": [
+        "澳弘电子"
+      ],
+      "pressure": 6,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -755,20 +747,35 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-08-06",
-      "2026-09-16"
+      "2026-08-07",
+      "2026-09-17"
     ],
     "requestedSessions": 30,
     "checkedPairs": 29,
-    "signalDays": 16,
-    "candidates": 16,
+    "signalDays": 17,
+    "candidates": 17,
     "winners": 10,
-    "winRate": 62.5,
+    "winRate": 58.8,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
     "tableWinnerLabel": "T+1 结果",
     "recentSignals": [
+      {
+        "signalDate": "2026-09-16",
+        "resultDate": "2026-09-17",
+        "cycle": "高潮期",
+        "seal": 89.0,
+        "highest": 6,
+        "candidates": [
+          "T日最高 6 板"
+        ],
+        "winners": [
+          "T+1最高 5 板 · 断板"
+        ],
+        "candidateCount": 1,
+        "winnerCount": 0
+      },
       {
         "signalDate": "2026-09-07",
         "resultDate": "2026-09-08",
@@ -903,21 +910,6 @@
         ],
         "candidateCount": 1,
         "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-08-18",
-        "resultDate": "2026-08-19",
-        "cycle": "",
-        "seal": 77.5,
-        "highest": 4,
-        "candidates": [
-          "T日最高 4 板"
-        ],
-        "winners": [
-          "T+1最高 3 板 · 断板"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 0
       }
     ],
     "conditions": [
@@ -932,7 +924,7 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-09-16T13:42:38+00:00"
+    "generatedAt": "2026-09-17T13:45:28+00:00"
   },
   "strategyMcpDays": {
     "2026-07-28": {
@@ -1156,6 +1148,12 @@
       "cycle": "高潮期",
       "seal": 89.0,
       "highest": 6
+    },
+    "2026-09-17": {
+      "date": "2026-09-17",
+      "cycle": "退潮期",
+      "seal": 70.1,
+      "highest": 5
     }
   },
   "errors": []
