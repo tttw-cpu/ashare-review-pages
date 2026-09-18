@@ -1,98 +1,98 @@
 {
-  "date": "2026-09-17",
-  "source": "https://lianban.net/days/2026-09-17.html",
-  "updatedAt": "2026-09-17T13:45:29+00:00",
+  "date": "2026-09-18",
+  "source": "https://lianban.net/days/2026-09-18.html",
+  "updatedAt": "2026-09-18T13:08:13+00:00",
   "stats": {
-    "up": 47,
-    "consecutive": 9,
-    "highest": 5,
-    "down": 1,
-    "seal": 70.1,
-    "broken": 20,
-    "cycle": "退潮",
+    "up": 78,
+    "consecutive": 12,
+    "highest": 4,
+    "down": 0,
+    "seal": 75.7,
+    "broken": 25,
+    "cycle": "升温",
     "themes": [
-      "机器人概念",
-      "农业",
-      "通信",
-      "汽车类",
-      "烟草"
+      "国产芯片",
+      "大消费",
+      "次新股",
+      "外贸受益概念",
+      "地产链"
     ],
-    "temperature": "43",
-    "turnover": "1.82万亿",
-    "upDown": "2,576/2,820"
+    "temperature": "70",
+    "turnover": "2.08万亿",
+    "upDown": "4,234/1,152"
   },
   "mainlines": [
     {
-      "name": "机器人",
-      "count": 6,
-      "leader": "科森科技"
-    },
-    {
-      "name": "烟草",
-      "count": 3,
-      "leader": "新宏泽"
-    },
-    {
-      "name": "新能源汽车",
-      "count": 6,
-      "leader": "众泰汽车"
+      "name": "次新股",
+      "count": 8,
+      "leader": "锡华科技"
     },
     {
       "name": "国产芯片",
-      "count": 1,
-      "leader": "中晶科技"
+      "count": 11,
+      "leader": "和顺石油"
+    },
+    {
+      "name": "外贸受益概念",
+      "count": 6,
+      "leader": "华纺股份"
+    },
+    {
+      "name": "大消费",
+      "count": 8,
+      "leader": "新宏泽"
     }
   ],
   "ladder": [
     {
-      "board": 5,
-      "count": 1,
+      "board": 4,
+      "count": 2,
       "prior": "—",
       "names": [
-        "澳弘电子"
-      ],
-      "subjects": []
-    },
-    {
-      "board": 3,
-      "count": 3,
-      "prior": "—",
-      "names": [
-        "中晶科技",
         "锡华科技",
         "华瓷股份"
       ],
       "subjects": []
     },
     {
-      "board": 2,
-      "count": 5,
+      "board": 3,
+      "count": 2,
       "prior": "—",
       "names": [
-        "万向德农",
-        "中岩大地",
-        "内蒙新华",
         "世联行",
-        "共达电声"
+        "内蒙新华"
+      ],
+      "subjects": []
+    },
+    {
+      "board": 2,
+      "count": 8,
+      "prior": "—",
+      "names": [
+        "华软科技",
+        "龙头股份",
+        "科森科技",
+        "华纺股份",
+        "南华生物",
+        "经纬股份",
+        "新宏泽",
+        "金健米业"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 11,
+      "count": 8,
       "prior": "—",
       "names": [
-        "科森科技",
-        "北特科技",
-        "天海电子",
-        "凯迪股份",
-        "均胜电子",
-        "克来机电",
-        "金健米业",
-        "敦煌种业",
-        "华英农业",
-        "世嘉科技",
-        "安凯客车"
+        "肯特催化",
+        "诚邦股份",
+        "和顺石油",
+        "博通集成",
+        "华天科技",
+        "盛景微",
+        "柏诚股份",
+        "和远气体"
       ],
       "subjects": []
     }
@@ -103,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20260917",
-    "sampleCount": 2115,
-    "current": 13.34,
+    "endDate": "20260918",
+    "sampleCount": 2116,
+    "current": 13.42,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.6,
     "high": 14.88,
-    "percentile": 58.7,
+    "percentile": 59.6,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -531,31 +531,20 @@
         "pe": 14.53
       },
       {
-        "date": "2026-09-17",
-        "pe": 13.34
+        "date": "2026-09-18",
+        "pe": 13.42
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-08-19",
-      "height": 3,
-      "names": [
-        "金健米业",
-        "红四方",
-        "京粮控股"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-08-20",
       "height": 4,
       "names": [
         "金健米业"
       ],
-      "pressure": 3,
-      "state": "突破"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-08-21",
@@ -739,6 +728,16 @@
       ],
       "pressure": 6,
       "state": "承压"
+    },
+    {
+      "date": "2026-09-18",
+      "height": 4,
+      "names": [
+        "锡华科技",
+        "华瓷股份"
+      ],
+      "pressure": 6,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -747,20 +746,35 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-08-07",
-      "2026-09-17"
+      "2026-08-10",
+      "2026-09-18"
     ],
     "requestedSessions": 30,
     "checkedPairs": 29,
     "signalDays": 17,
     "candidates": 17,
-    "winners": 10,
-    "winRate": 58.8,
+    "winners": 9,
+    "winRate": 52.9,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
     "tableWinnerLabel": "T+1 结果",
     "recentSignals": [
+      {
+        "signalDate": "2026-09-17",
+        "resultDate": "2026-09-18",
+        "cycle": "退潮期",
+        "seal": 70.1,
+        "highest": 5,
+        "candidates": [
+          "T日最高 5 板"
+        ],
+        "winners": [
+          "T+1最高 4 板 · 断板"
+        ],
+        "candidateCount": 1,
+        "winnerCount": 0
+      },
       {
         "signalDate": "2026-09-16",
         "resultDate": "2026-09-17",
@@ -895,21 +909,6 @@
         ],
         "candidateCount": 1,
         "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-08-24",
-        "resultDate": "2026-08-25",
-        "cycle": "",
-        "seal": 74.2,
-        "highest": 4,
-        "candidates": [
-          "T日最高 4 板"
-        ],
-        "winners": [
-          "T+1最高 5 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
       }
     ],
     "conditions": [
@@ -924,7 +923,7 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-09-17T13:45:28+00:00"
+    "generatedAt": "2026-09-18T13:08:13+00:00"
   },
   "strategyMcpDays": {
     "2026-07-28": {
@@ -1154,6 +1153,12 @@
       "cycle": "退潮期",
       "seal": 70.1,
       "highest": 5
+    },
+    "2026-09-18": {
+      "date": "2026-09-18",
+      "cycle": "升温期",
+      "seal": 75.7,
+      "highest": 4
     }
   },
   "errors": []
