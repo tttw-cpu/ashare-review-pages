@@ -1,61 +1,60 @@
 {
-  "date": "2026-09-18",
-  "source": "https://lianban.net/days/2026-09-18.html",
-  "updatedAt": "2026-09-18T13:08:13+00:00",
+  "date": "2026-09-21",
+  "source": "https://lianban.net/days/2026-09-21.html",
+  "updatedAt": "2026-09-21T15:18:33+00:00",
   "stats": {
-    "up": 78,
-    "consecutive": 12,
-    "highest": 4,
-    "down": 0,
-    "seal": 75.7,
+    "up": 103,
+    "consecutive": 21,
+    "highest": 5,
+    "down": 2,
+    "seal": 80.5,
     "broken": 25,
-    "cycle": "升温",
+    "cycle": "高潮",
     "themes": [
-      "国产芯片",
+      "医药",
       "大消费",
-      "次新股",
-      "外贸受益概念",
-      "地产链"
+      "房地产",
+      "机器人",
+      "芯片"
     ],
-    "temperature": "70",
-    "turnover": "2.08万亿",
-    "upDown": "4,234/1,152"
+    "temperature": "97",
+    "turnover": "2.03万亿",
+    "upDown": "4,536/936"
   },
   "mainlines": [
     {
-      "name": "次新股",
-      "count": 8,
-      "leader": "锡华科技"
+      "name": "医药",
+      "count": 27,
+      "leader": "南华生物"
     },
     {
-      "name": "国产芯片",
-      "count": 11,
-      "leader": "和顺石油"
+      "name": "房地产",
+      "count": 15,
+      "leader": "绿地控股"
     },
     {
-      "name": "外贸受益概念",
-      "count": 6,
-      "leader": "华纺股份"
+      "name": "机器人",
+      "count": 4,
+      "leader": "福莱蒽特"
     },
     {
       "name": "大消费",
-      "count": 8,
-      "leader": "新宏泽"
+      "count": 19,
+      "leader": "国芳集团"
     }
   ],
   "ladder": [
     {
-      "board": 4,
-      "count": 2,
+      "board": 5,
+      "count": 1,
       "prior": "—",
       "names": [
-        "锡华科技",
         "华瓷股份"
       ],
       "subjects": []
     },
     {
-      "board": 3,
+      "board": 4,
       "count": 2,
       "prior": "—",
       "names": [
@@ -65,34 +64,35 @@
       "subjects": []
     },
     {
-      "board": 2,
-      "count": 8,
+      "board": 3,
+      "count": 5,
       "prior": "—",
       "names": [
+        "南华生物",
+        "金健米业",
         "华软科技",
         "龙头股份",
-        "科森科技",
-        "华纺股份",
-        "南华生物",
-        "经纬股份",
-        "新宏泽",
-        "金健米业"
+        "华纺股份"
       ],
       "subjects": []
     },
     {
-      "board": 1,
-      "count": 8,
+      "board": 2,
+      "count": 12,
       "prior": "—",
       "names": [
-        "肯特催化",
+        "瑞康医药",
+        "大亚圣象",
+        "绿地控股",
         "诚邦股份",
-        "和顺石油",
         "博通集成",
-        "华天科技",
-        "盛景微",
-        "柏诚股份",
-        "和远气体"
+        "奥康国际",
+        "国芳集团",
+        "新华文轩",
+        "华金资本",
+        "三羊马",
+        "百通能源",
+        "会稽山"
       ],
       "subjects": []
     }
@@ -103,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20260918",
-    "sampleCount": 2116,
-    "current": 13.42,
+    "endDate": "20260921",
+    "sampleCount": 2117,
+    "current": 13.51,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.6,
     "high": 14.88,
-    "percentile": 59.6,
+    "percentile": 61.5,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -531,29 +531,20 @@
         "pe": 14.53
       },
       {
-        "date": "2026-09-18",
-        "pe": 13.42
+        "date": "2026-09-21",
+        "pe": 13.51
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-08-20",
-      "height": 4,
-      "names": [
-        "金健米业"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-08-21",
       "height": 3,
       "names": [
         "汉森制药"
       ],
-      "pressure": 4,
-      "state": "承压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-08-24",
@@ -561,8 +552,8 @@
       "names": [
         "汉森制药"
       ],
-      "pressure": 4,
-      "state": "触压"
+      "pressure": 3,
+      "state": "突破"
     },
     {
       "date": "2026-08-25",
@@ -738,6 +729,15 @@
       ],
       "pressure": 6,
       "state": "承压"
+    },
+    {
+      "date": "2026-09-21",
+      "height": 5,
+      "names": [
+        "华瓷股份"
+      ],
+      "pressure": 6,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -746,20 +746,35 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-08-10",
-      "2026-09-18"
+      "2026-09-15",
+      "2026-09-21"
     ],
-    "requestedSessions": 30,
-    "checkedPairs": 29,
-    "signalDays": 17,
-    "candidates": 17,
-    "winners": 9,
-    "winRate": 52.9,
+    "requestedSessions": 5,
+    "checkedPairs": 4,
+    "signalDays": 3,
+    "candidates": 3,
+    "winners": 1,
+    "winRate": 33.3,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
     "tableWinnerLabel": "T+1 结果",
     "recentSignals": [
+      {
+        "signalDate": "2026-09-18",
+        "resultDate": "2026-09-21",
+        "cycle": "升温期",
+        "seal": 75.7,
+        "highest": 4,
+        "candidates": [
+          "T日最高 4 板"
+        ],
+        "winners": [
+          "T+1最高 5 板 · 延续"
+        ],
+        "candidateCount": 1,
+        "winnerCount": 1
+      },
       {
         "signalDate": "2026-09-17",
         "resultDate": "2026-09-18",
@@ -789,126 +804,6 @@
         ],
         "candidateCount": 1,
         "winnerCount": 0
-      },
-      {
-        "signalDate": "2026-09-07",
-        "resultDate": "2026-09-08",
-        "cycle": "高潮期",
-        "seal": 82.9,
-        "highest": 6,
-        "candidates": [
-          "T日最高 6 板"
-        ],
-        "winners": [
-          "T+1最高 4 板 · 断板"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 0
-      },
-      {
-        "signalDate": "2026-09-02",
-        "resultDate": "2026-09-03",
-        "cycle": "退潮期",
-        "seal": 77.6,
-        "highest": 4,
-        "candidates": [
-          "T日最高 4 板"
-        ],
-        "winners": [
-          "T+1最高 5 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-09-01",
-        "resultDate": "2026-09-02",
-        "cycle": "升温期",
-        "seal": 93.3,
-        "highest": 7,
-        "candidates": [
-          "T日最高 7 板"
-        ],
-        "winners": [
-          "T+1最高 4 板 · 断板"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 0
-      },
-      {
-        "signalDate": "2026-08-31",
-        "resultDate": "2026-09-01",
-        "cycle": "升温期",
-        "seal": 74.6,
-        "highest": 6,
-        "candidates": [
-          "T日最高 6 板"
-        ],
-        "winners": [
-          "T+1最高 7 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-08-28",
-        "resultDate": "2026-08-31",
-        "cycle": "升温期",
-        "seal": 83.7,
-        "highest": 7,
-        "candidates": [
-          "T日最高 7 板"
-        ],
-        "winners": [
-          "T+1最高 6 板 · 断板"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 0
-      },
-      {
-        "signalDate": "2026-08-27",
-        "resultDate": "2026-08-28",
-        "cycle": "",
-        "seal": 81.9,
-        "highest": 6,
-        "candidates": [
-          "T日最高 6 板"
-        ],
-        "winners": [
-          "T+1最高 7 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-08-26",
-        "resultDate": "2026-08-27",
-        "cycle": "",
-        "seal": 72.2,
-        "highest": 5,
-        "candidates": [
-          "T日最高 5 板"
-        ],
-        "winners": [
-          "T+1最高 6 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-08-25",
-        "resultDate": "2026-08-26",
-        "cycle": "",
-        "seal": 74.7,
-        "highest": 5,
-        "candidates": [
-          "T日最高 5 板"
-        ],
-        "winners": [
-          "T+1最高 5 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
       }
     ],
     "conditions": [
@@ -923,7 +818,7 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-09-18T13:08:13+00:00"
+    "generatedAt": "2026-09-21T15:18:28+00:00"
   },
   "strategyMcpDays": {
     "2026-07-28": {
@@ -1159,6 +1054,12 @@
       "cycle": "升温期",
       "seal": 75.7,
       "highest": 4
+    },
+    "2026-09-21": {
+      "date": "2026-09-21",
+      "cycle": "高潮期",
+      "seal": 80.5,
+      "highest": 5
     }
   },
   "errors": []
