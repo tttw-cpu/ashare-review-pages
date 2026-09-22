@@ -1,51 +1,51 @@
 {
-  "date": "2026-09-21",
-  "source": "https://lianban.net/days/2026-09-21.html",
-  "updatedAt": "2026-09-21T15:18:33+00:00",
+  "date": "2026-09-22",
+  "source": "https://lianban.net/days/2026-09-22.html",
+  "updatedAt": "2026-09-22T13:38:48+00:00",
   "stats": {
-    "up": 103,
-    "consecutive": 21,
-    "highest": 5,
-    "down": 2,
-    "seal": 80.5,
-    "broken": 25,
-    "cycle": "高潮",
+    "up": 63,
+    "consecutive": 24,
+    "highest": 6,
+    "down": 3,
+    "seal": 77.8,
+    "broken": 18,
+    "cycle": "降温",
     "themes": [
+      "AI大模型/智能体",
       "医药",
-      "大消费",
-      "房地产",
-      "机器人",
+      "国产芯片",
+      "通信(PCB)",
       "芯片"
     ],
-    "temperature": "97",
-    "turnover": "2.03万亿",
-    "upDown": "4,536/936"
+    "temperature": "51",
+    "turnover": "2.14万亿",
+    "upDown": "2,374/3,029"
   },
   "mainlines": [
     {
-      "name": "医药",
-      "count": 27,
-      "leader": "南华生物"
+      "name": "AI大模型/智能体",
+      "count": 24,
+      "leader": "延华智能"
     },
     {
-      "name": "房地产",
-      "count": 15,
-      "leader": "绿地控股"
-    },
-    {
-      "name": "机器人",
+      "name": "国产芯片",
       "count": 4,
-      "leader": "福莱蒽特"
+      "leader": "先导基电"
     },
     {
-      "name": "大消费",
-      "count": 19,
-      "leader": "国芳集团"
+      "name": "传媒",
+      "count": 1,
+      "leader": "内蒙新华"
+    },
+    {
+      "name": "医药",
+      "count": 10,
+      "leader": "南华生物"
     }
   ],
   "ladder": [
     {
-      "board": 5,
+      "board": 6,
       "count": 1,
       "prior": "—",
       "names": [
@@ -54,45 +54,53 @@
       "subjects": []
     },
     {
-      "board": 4,
-      "count": 2,
+      "board": 5,
+      "count": 1,
       "prior": "—",
       "names": [
-        "世联行",
         "内蒙新华"
       ],
       "subjects": []
     },
     {
-      "board": 3,
-      "count": 5,
+      "board": 4,
+      "count": 1,
       "prior": "—",
       "names": [
-        "南华生物",
-        "金健米业",
-        "华软科技",
-        "龙头股份",
-        "华纺股份"
+        "南华生物"
+      ],
+      "subjects": []
+    },
+    {
+      "board": 3,
+      "count": 4,
+      "prior": "—",
+      "names": [
+        "大亚圣象",
+        "博通集成",
+        "新华文轩",
+        "三羊马"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 12,
+      "count": 13,
       "prior": "—",
       "names": [
-        "瑞康医药",
-        "大亚圣象",
-        "绿地控股",
-        "诚邦股份",
-        "博通集成",
-        "奥康国际",
-        "国芳集团",
-        "新华文轩",
-        "华金资本",
-        "三羊马",
-        "百通能源",
-        "会稽山"
+        "华媒控股",
+        "南威软件",
+        "延华智能",
+        "新华制药",
+        "哈药股份",
+        "百花医药",
+        "华仁药业",
+        "我爱我家",
+        "华丽家族",
+        "新华传媒",
+        "奥佳华",
+        "华远控股",
+        "泰慕士"
       ],
       "subjects": []
     }
@@ -103,14 +111,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20260921",
-    "sampleCount": 2117,
-    "current": 13.51,
+    "endDate": "20260922",
+    "sampleCount": 2118,
+    "current": 13.53,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.6,
     "high": 14.88,
-    "percentile": 61.5,
+    "percentile": 62.0,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -531,29 +539,20 @@
         "pe": 14.53
       },
       {
-        "date": "2026-09-21",
-        "pe": 13.51
+        "date": "2026-09-22",
+        "pe": 13.53
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-08-21",
-      "height": 3,
-      "names": [
-        "汉森制药"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-08-24",
       "height": 4,
       "names": [
         "汉森制药"
       ],
-      "pressure": 3,
-      "state": "突破"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-08-25",
@@ -738,6 +737,15 @@
       ],
       "pressure": 6,
       "state": "承压"
+    },
+    {
+      "date": "2026-09-22",
+      "height": 6,
+      "names": [
+        "华瓷股份"
+      ],
+      "pressure": 6,
+      "state": "触压"
     }
   ],
   "strategyBacktest": {
@@ -746,20 +754,35 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-09-15",
-      "2026-09-21"
+      "2026-09-16",
+      "2026-09-22"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
-    "signalDays": 3,
-    "candidates": 3,
-    "winners": 1,
-    "winRate": 33.3,
+    "signalDays": 4,
+    "candidates": 4,
+    "winners": 2,
+    "winRate": 50.0,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
     "tableWinnerLabel": "T+1 结果",
     "recentSignals": [
+      {
+        "signalDate": "2026-09-21",
+        "resultDate": "2026-09-22",
+        "cycle": "高潮期",
+        "seal": 80.5,
+        "highest": 5,
+        "candidates": [
+          "T日最高 5 板"
+        ],
+        "winners": [
+          "T+1最高 6 板 · 延续"
+        ],
+        "candidateCount": 1,
+        "winnerCount": 1
+      },
       {
         "signalDate": "2026-09-18",
         "resultDate": "2026-09-21",
@@ -818,15 +841,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-09-21T15:18:28+00:00"
+    "generatedAt": "2026-09-22T13:38:48+00:00"
   },
   "strategyMcpDays": {
-    "2026-07-28": {
-      "date": "2026-07-28",
-      "cycle": "",
-      "seal": 75.3,
-      "highest": 6
-    },
     "2026-07-29": {
       "date": "2026-07-29",
       "cycle": "",
@@ -1060,6 +1077,12 @@
       "cycle": "高潮期",
       "seal": 80.5,
       "highest": 5
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "cycle": "降温期",
+      "seal": 77.8,
+      "highest": 6
     }
   },
   "errors": []
