@@ -1,98 +1,106 @@
 {
-  "date": "2026-09-23",
-  "source": "https://lianban.net/days/2026-09-23.html",
-  "updatedAt": "2026-09-23T13:50:08+00:00",
+  "date": "2026-09-24",
+  "source": "https://lianban.net/days/2026-09-24.html",
+  "updatedAt": "2026-09-24T13:45:39+00:00",
   "stats": {
-    "up": 51,
-    "consecutive": 12,
-    "highest": 4,
+    "up": 52,
+    "consecutive": 13,
+    "highest": 5,
     "down": 13,
-    "seal": 66.2,
-    "broken": 26,
+    "seal": 83.9,
+    "broken": 10,
     "cycle": "退潮",
     "themes": [
-      "房地产",
-      "PCB板",
-      "仪器仪表",
+      "海峡两岸",
+      "机器人",
       "芯片",
-      "国产芯片"
+      "仪器仪表",
+      "通信"
     ],
-    "temperature": "30",
-    "turnover": "1.76万亿",
-    "upDown": "1,891/3,564"
+    "temperature": "35",
+    "turnover": "1.65万亿",
+    "upDown": "1,119/4,306"
   },
   "mainlines": [
     {
-      "name": "PCB板",
-      "count": 5,
-      "leader": "；公司研发生产的超薄PCB纤维板有利于丰富公司产品矩阵，开拓高端电子材料市场； 2、公司以自有资金1500万认购嘉兴翼龙股权投资合伙企业28.3\">龙头 大亚圣象"
+      "name": "福建自贸/海西概念",
+      "count": 11,
+      "leader": "企业，是福建地区产能规模最大的水泥制造企业\">龙头 福建水泥"
     },
     {
-      "name": "仪器仪表",
-      "count": 5,
-      "leader": "威星智能"
-    },
-    {
-      "name": "国产芯片",
-      "count": 3,
-      "leader": "，拟投资约10亿元建设半导体装备研发及制造项目，布局TGV玻璃基封装等设备\">龙头 金辰股份"
-    },
-    {
-      "name": "房地产",
+      "name": "机器人",
       "count": 6,
-      "leader": "我爱我家"
+      "leader": "上工申贝"
+    },
+    {
+      "name": "传媒",
+      "count": 2,
+      "leader": "内蒙新华"
+    },
+    {
+      "name": "大消费",
+      "count": 2,
+      "leader": "泰慕士"
     }
   ],
   "ladder": [
     {
-      "board": 4,
-      "count": 2,
+      "board": 5,
+      "count": 1,
       "prior": "—",
       "names": [
-        "大亚圣象",
         "新华文轩"
       ],
       "subjects": []
     },
     {
-      "board": 3,
-      "count": 7,
+      "board": 4,
+      "count": 3,
       "prior": "—",
       "names": [
-        "华远控股",
-        "我爱我家",
-        "华丽家族",
-        "南威软件",
-        "泰慕士",
         "奥佳华",
-        "新华传媒"
+        "新华传媒",
+        "泰慕士"
+      ],
+      "subjects": []
+    },
+    {
+      "board": 3,
+      "count": 1,
+      "prior": "—",
+      "names": [
+        "天威视讯"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 3,
+      "count": 8,
       "prior": "—",
       "names": [
-        "澳弘电子",
-        "天威视讯",
-        "江淮汽车"
+        "福建水泥",
+        "上工申贝",
+        "康强电子",
+        "金辰股份",
+        "东方中科",
+        "集泰股份",
+        "雪龙集团",
+        "华茂股份"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 8,
+      "count": 7,
       "prior": "—",
       "names": [
-        "沃格光电",
-        "金辰股份",
-        "济民健康",
-        "康强电子",
-        "中天精装",
-        "领先股份",
-        "天奥电子",
-        "慧智微"
+        "七匹狼",
+        "厦工股份",
+        "平潭发展",
+        "海峡创新",
+        "厦门港务",
+        "漳州发展",
+        "福建金森"
       ],
       "subjects": []
     }
@@ -103,14 +111,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20260923",
-    "sampleCount": 2119,
-    "current": 13.45,
+    "endDate": "20260924",
+    "sampleCount": 2120,
+    "current": 13.29,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.6,
     "high": 14.88,
-    "percentile": 60.4,
+    "percentile": 58.2,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -531,29 +539,20 @@
         "pe": 14.53
       },
       {
-        "date": "2026-09-23",
-        "pe": 13.45
+        "date": "2026-09-24",
+        "pe": 13.29
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-08-25",
-      "height": 5,
-      "names": [
-        "汉森制药"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-08-26",
       "height": 5,
       "names": [
         "深中华A"
       ],
-      "pressure": 5,
-      "state": "触压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-08-27",
@@ -739,6 +738,15 @@
       ],
       "pressure": 6,
       "state": "承压"
+    },
+    {
+      "date": "2026-09-24",
+      "height": 5,
+      "names": [
+        "新华文轩"
+      ],
+      "pressure": 6,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -747,15 +755,15 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-09-17",
-      "2026-09-23"
+      "2026-09-18",
+      "2026-09-24"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
-    "signalDays": 4,
-    "candidates": 4,
+    "signalDays": 3,
+    "candidates": 3,
     "winners": 2,
-    "winRate": 50.0,
+    "winRate": 66.7,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
@@ -805,21 +813,6 @@
         ],
         "candidateCount": 1,
         "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-09-17",
-        "resultDate": "2026-09-18",
-        "cycle": "退潮期",
-        "seal": 70.1,
-        "highest": 5,
-        "candidates": [
-          "T日最高 5 板"
-        ],
-        "winners": [
-          "T+1最高 4 板 · 断板"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 0
       }
     ],
     "conditions": [
@@ -834,15 +827,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-09-23T13:50:05+00:00"
+    "generatedAt": "2026-09-24T13:45:38+00:00"
   },
   "strategyMcpDays": {
-    "2026-07-30": {
-      "date": "2026-07-30",
-      "cycle": "",
-      "seal": 73.2,
-      "highest": 8
-    },
     "2026-07-31": {
       "date": "2026-07-31",
       "cycle": "",
@@ -1076,6 +1063,12 @@
       "cycle": "退潮期",
       "seal": 66.2,
       "highest": 4
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "cycle": "退潮期",
+      "seal": 83.9,
+      "highest": 5
     }
   },
   "errors": []
