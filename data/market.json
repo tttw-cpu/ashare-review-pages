@@ -1,46 +1,51 @@
 {
-  "date": "2026-10-08",
-  "source": "https://lianban.net/days/2026-10-08.html",
-  "updatedAt": "2026-10-08T15:50:21+00:00",
+  "date": "2026-10-09",
+  "source": "https://lianban.net/days/2026-10-09.html",
+  "updatedAt": "2026-10-09T15:32:54+00:00",
   "stats": {
-    "up": 43,
-    "consecutive": 10,
-    "highest": 8,
-    "down": 13,
-    "seal": 57.3,
-    "broken": 32,
-    "cycle": "冰点",
+    "up": 69,
+    "consecutive": 12,
+    "highest": 9,
+    "down": 8,
+    "seal": 83.1,
+    "broken": 14,
+    "cycle": "修复",
     "themes": [
+      "AI应用",
       "锂电池",
-      "并购重组",
-      "服装家纺",
-      "地产链",
-      "航运"
+      "医药",
+      "农业",
+      "零售"
     ],
-    "temperature": "16",
-    "turnover": "1.68万亿",
-    "upDown": "1,697/3,748"
+    "temperature": "57",
+    "turnover": "1.90万亿",
+    "upDown": "3,297/2,144"
   },
   "mainlines": [
     {
-      "name": "锂电池",
-      "count": 9,
-      "leader": "时代万恒"
+      "name": "影视",
+      "count": 12,
+      "leader": "；公司已接入国内AI创业公司月之暗面旗下AI对话助手产品Kimi； 2、公司推出海外短剧平台iDrama，现已上线数千部短剧作\">龙头 掌阅科技"
     },
     {
       "name": "大消费",
-      "count": 5,
+      "count": 7,
       "leader": "；公司表示与华为不存在市场传闻所称的战略合作关系\">龙头 九阳股份"
     },
     {
-      "name": "资产重组",
-      "count": 3,
-      "leader": "新华传媒"
+      "name": "医药",
+      "count": 6,
+      "leader": "华北制药"
+    },
+    {
+      "name": "锂电池",
+      "count": 8,
+      "leader": "时代万恒"
     }
   ],
   "ladder": [
     {
-      "board": 8,
+      "board": 9,
       "count": 1,
       "prior": "—",
       "names": [
@@ -49,7 +54,7 @@
       "subjects": []
     },
     {
-      "board": 4,
+      "board": 5,
       "count": 2,
       "prior": "—",
       "names": [
@@ -59,43 +64,43 @@
       "subjects": []
     },
     {
-      "board": 3,
-      "count": 4,
+      "board": 4,
+      "count": 1,
       "prior": "—",
       "names": [
-        "紫竹高科",
-        "传艺科技",
-        "上海洗霸",
-        "园林股份"
+        "紫竹高科"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 3,
+      "count": 8,
       "prior": "—",
       "names": [
-        "龙蟠科技",
-        "陆家嘴",
-        "兴业股份"
+        "雄韬股份",
+        "丰元股份",
+        "领湃科技",
+        "华北制药",
+        "三柏硕",
+        "红豆股份",
+        "楚环科技",
+        "安泰集团"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 10,
+      "count": 8,
       "prior": "—",
       "names": [
-        "雄韬股份",
-        "野马电池",
-        "丰元股份",
-        "领湃科技",
-        "恒尚节能",
-        "乔治白",
-        "彩蝶实业",
-        "红豆股份",
-        "快意电梯",
-        "中远海能"
+        "新华文轩",
+        "绿盟科技",
+        "天融信",
+        "中新赛克",
+        "郑中设计",
+        "德才股份",
+        "龙版传媒",
+        "上海电影"
       ],
       "subjects": []
     }
@@ -106,14 +111,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20261008",
-    "sampleCount": 2124,
-    "current": 13.09,
+    "endDate": "20261009",
+    "sampleCount": 2125,
+    "current": 13.11,
     "mean": 13.24,
     "std": 1.64,
     "low": 11.61,
     "high": 14.88,
-    "percentile": 54.3,
+    "percentile": 54.7,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -538,21 +543,12 @@
         "pe": 13.15
       },
       {
-        "date": "2026-10-08",
-        "pe": 13.09
+        "date": "2026-10-09",
+        "pe": 13.11
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-09-01",
-      "height": 7,
-      "names": [
-        "海鸥住工"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-09-02",
       "height": 4,
@@ -560,8 +556,8 @@
         "竞业达",
         "国芳集团"
       ],
-      "pressure": 7,
-      "state": "承压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-09-03",
@@ -569,8 +565,8 @@
       "names": [
         "国芳集团"
       ],
-      "pressure": 7,
-      "state": "承压"
+      "pressure": 4,
+      "state": "突破"
     },
     {
       "date": "2026-09-04",
@@ -578,8 +574,8 @@
       "names": [
         "龙版传媒"
       ],
-      "pressure": 7,
-      "state": "承压"
+      "pressure": 5,
+      "state": "触压"
     },
     {
       "date": "2026-09-07",
@@ -587,8 +583,8 @@
       "names": [
         "龙版传媒"
       ],
-      "pressure": 7,
-      "state": "承压"
+      "pressure": 5,
+      "state": "突破"
     },
     {
       "date": "2026-09-08",
@@ -598,7 +594,7 @@
         "百大集团",
         "爱仕达"
       ],
-      "pressure": 7,
+      "pressure": 6,
       "state": "承压"
     },
     {
@@ -746,6 +742,15 @@
       ],
       "pressure": 7,
       "state": "突破"
+    },
+    {
+      "date": "2026-10-09",
+      "height": 9,
+      "names": [
+        "新华传媒"
+      ],
+      "pressure": 8,
+      "state": "突破"
     }
   ],
   "strategyBacktest": {
@@ -754,14 +759,14 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-09-24",
-      "2026-10-08"
+      "2026-09-28",
+      "2026-10-09"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
-    "signalDays": 4,
-    "candidates": 4,
-    "winners": 4,
+    "signalDays": 3,
+    "candidates": 3,
+    "winners": 3,
     "winRate": 100.0,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
@@ -812,21 +817,6 @@
         ],
         "candidateCount": 1,
         "winnerCount": 1
-      },
-      {
-        "signalDate": "2026-09-24",
-        "resultDate": "2026-09-28",
-        "cycle": "退潮期",
-        "seal": 83.9,
-        "highest": 5,
-        "candidates": [
-          "T日最高 5 板"
-        ],
-        "winners": [
-          "T+1最高 5 板 · 延续"
-        ],
-        "candidateCount": 1,
-        "winnerCount": 1
       }
     ],
     "conditions": [
@@ -841,15 +831,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-10-08T15:50:19+00:00"
+    "generatedAt": "2026-10-09T15:32:53+00:00"
   },
   "strategyMcpDays": {
-    "2026-08-06": {
-      "date": "2026-08-06",
-      "cycle": "",
-      "seal": 79.8,
-      "highest": 10
-    },
     "2026-08-07": {
       "date": "2026-08-07",
       "cycle": "",
@@ -1083,6 +1067,12 @@
       "cycle": "冰点期",
       "seal": 57.3,
       "highest": 8
+    },
+    "2026-10-09": {
+      "date": "2026-10-09",
+      "cycle": "修复期",
+      "seal": 83.1,
+      "highest": 9
     }
   },
   "errors": []
