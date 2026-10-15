@@ -1,98 +1,98 @@
 {
-  "date": "2026-10-14",
-  "source": "https://lianban.net/days/2026-10-14.html",
-  "updatedAt": "2026-10-14T13:59:42+00:00",
+  "date": "2026-10-15",
+  "source": "https://lianban.net/days/2026-10-15.html",
+  "updatedAt": "2026-10-15T13:39:47+00:00",
   "stats": {
     "up": 36,
-    "consecutive": 15,
-    "highest": 4,
-    "down": 11,
-    "seal": 60.0,
-    "broken": 24,
+    "consecutive": 6,
+    "highest": 5,
+    "down": 26,
+    "seal": 83.7,
+    "broken": 7,
     "cycle": "冰点",
     "themes": [
+      "通信(PCB)",
+      "医药",
       "三季报增长",
-      "AI应用(AI视频)",
-      "文化传媒(版权)",
-      "体育产业(冰雪产业)",
-      "游戏(互动影游)"
+      "文化传媒",
+      "物流"
     ],
-    "temperature": "13",
-    "turnover": "1.41万亿",
-    "upDown": "978/4,496"
+    "temperature": "5",
+    "turnover": "1.63万亿",
+    "upDown": "430/5,107"
   },
   "mainlines": [
     {
-      "name": "短剧/互动影游",
-      "count": 5,
-      "leader": "慈文传媒"
-    },
-    {
-      "name": "冰雪产业",
-      "count": 2,
-      "leader": "冰山冷热"
+      "name": "医药",
+      "count": 4,
+      "leader": "华北制药"
     },
     {
       "name": "大消费",
-      "count": 2,
+      "count": 4,
       "leader": "百洋股份"
+    },
+    {
+      "name": "PCB板",
+      "count": 5,
+      "leader": "骏亚科技"
     },
     {
       "name": "业绩增长",
       "count": 4,
-      "leader": "超声电子"
+      "leader": "富春染织"
     }
   ],
   "ladder": [
     {
-      "board": 4,
-      "count": 3,
+      "board": 5,
+      "count": 2,
       "prior": "—",
       "names": [
         "慈文传媒",
-        "新经典",
         "百洋股份"
       ],
       "subjects": []
     },
     {
       "board": 3,
-      "count": 1,
+      "count": 2,
       "prior": "—",
       "names": [
-        "醋化股份"
+        "阳光乳业",
+        "冰山冷热"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 11,
+      "count": 2,
       "prior": "—",
       "names": [
-        "超声电子",
-        "冰山冷热",
-        "龙江交通",
-        "荣丰控股",
-        "路畅科技",
-        "星帅尔",
-        "金奥博",
-        "阳光乳业",
-        "哈空调",
-        "万里股份",
-        "航发科技"
+        "富春染织",
+        "新华文轩"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 5,
+      "count": 14,
       "prior": "—",
       "names": [
-        "宝鼎科技",
-        "富春染织",
-        "韶能股份",
-        "掌阅科技",
-        "引力传媒"
+        "崇达技术",
+        "金禄电子",
+        "天津普林",
+        "骏亚科技",
+        "澳弘电子",
+        "百花医药",
+        "向日葵",
+        "尖峰集团",
+        "华北制药",
+        "远大控股",
+        "湖南发展",
+        "读者传媒",
+        "内蒙新华",
+        "东方嘉盛"
       ],
       "subjects": []
     }
@@ -103,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20261014",
-    "sampleCount": 2128,
-    "current": 12.99,
+    "endDate": "20261015",
+    "sampleCount": 2129,
+    "current": 12.87,
     "mean": 13.24,
     "std": 1.63,
     "low": 11.61,
     "high": 14.87,
-    "percentile": 51.2,
+    "percentile": 46.5,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -535,21 +535,12 @@
         "pe": 13.15
       },
       {
-        "date": "2026-10-14",
-        "pe": 12.99
+        "date": "2026-10-15",
+        "pe": 12.87
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-09-07",
-      "height": 6,
-      "names": [
-        "龙版传媒"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-09-08",
       "height": 4,
@@ -558,8 +549,8 @@
         "百大集团",
         "爱仕达"
       ],
-      "pressure": 6,
-      "state": "承压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-09-09",
@@ -567,8 +558,8 @@
       "names": [
         "百大集团"
       ],
-      "pressure": 6,
-      "state": "承压"
+      "pressure": 4,
+      "state": "突破"
     },
     {
       "date": "2026-09-10",
@@ -576,7 +567,7 @@
       "names": [
         "桂林旅游"
       ],
-      "pressure": 6,
+      "pressure": 5,
       "state": "承压"
     },
     {
@@ -585,7 +576,7 @@
       "names": [
         "瑞尔特"
       ],
-      "pressure": 6,
+      "pressure": 5,
       "state": "承压"
     },
     {
@@ -594,7 +585,7 @@
       "names": [
         "闽东电力"
       ],
-      "pressure": 6,
+      "pressure": 5,
       "state": "承压"
     },
     {
@@ -748,6 +739,16 @@
       ],
       "pressure": 10,
       "state": "承压"
+    },
+    {
+      "date": "2026-10-15",
+      "height": 5,
+      "names": [
+        "慈文传媒",
+        "百洋股份"
+      ],
+      "pressure": 10,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -756,8 +757,8 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-10-08",
-      "2026-10-14"
+      "2026-10-09",
+      "2026-10-15"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
@@ -782,15 +783,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-10-14T13:59:38+00:00"
+    "generatedAt": "2026-10-15T13:39:47+00:00"
   },
   "strategyMcpDays": {
-    "2026-08-12": {
-      "date": "2026-08-12",
-      "cycle": "",
-      "seal": 88.5,
-      "highest": 7
-    },
     "2026-08-13": {
       "date": "2026-08-13",
       "cycle": "",
@@ -1024,6 +1019,12 @@
       "cycle": "冰点期",
       "seal": 60.0,
       "highest": 4
+    },
+    "2026-10-15": {
+      "date": "2026-10-15",
+      "cycle": "冰点期",
+      "seal": 83.7,
+      "highest": 5
     }
   },
   "errors": []
