@@ -1,98 +1,106 @@
 {
-  "date": "2026-10-15",
-  "source": "https://lianban.net/days/2026-10-15.html",
-  "updatedAt": "2026-10-15T13:39:47+00:00",
+  "date": "2026-10-16",
+  "source": "https://lianban.net/days/2026-10-16.html",
+  "updatedAt": "2026-10-16T13:30:25+00:00",
   "stats": {
-    "up": 36,
-    "consecutive": 6,
-    "highest": 5,
-    "down": 26,
-    "seal": 83.7,
-    "broken": 7,
-    "cycle": "冰点",
+    "up": 61,
+    "consecutive": 7,
+    "highest": 11,
+    "down": 10,
+    "seal": 55.5,
+    "broken": 49,
+    "cycle": "修复",
     "themes": [
-      "通信(PCB)",
-      "医药",
-      "三季报增长",
-      "文化传媒",
-      "物流"
+      "低空经济",
+      "军工",
+      "AI应用",
+      "汽车零部件",
+      "储气罐"
     ],
-    "temperature": "5",
-    "turnover": "1.63万亿",
-    "upDown": "430/5,107"
+    "temperature": "36",
+    "turnover": "1.56万亿",
+    "upDown": "3,301/2,127"
   },
   "mainlines": [
     {
-      "name": "医药",
-      "count": 4,
-      "leader": "华北制药"
+      "name": "低空经济",
+      "count": 19,
+      "leader": "华阳国际"
     },
     {
-      "name": "大消费",
-      "count": 4,
-      "leader": "百洋股份"
+      "name": "军工",
+      "count": 10,
+      "leader": "长城军工"
     },
     {
-      "name": "PCB板",
+      "name": "机器人",
+      "count": 9,
+      "leader": "大业股份"
+    },
+    {
+      "name": "短剧/互动影游",
       "count": 5,
-      "leader": "骏亚科技"
-    },
-    {
-      "name": "业绩增长",
-      "count": 4,
-      "leader": "富春染织"
+      "leader": "，省内义务教育阶段学生教科书唯一供货方\">龙头 新华文轩"
     }
   ],
   "ladder": [
     {
-      "board": 5,
-      "count": 2,
+      "board": 11,
+      "count": 1,
       "prior": "—",
       "names": [
-        "慈文传媒",
-        "百洋股份"
+        "新华传媒"
       ],
       "subjects": []
     },
     {
-      "board": 3,
-      "count": 2,
+      "board": 4,
+      "count": 1,
       "prior": "—",
       "names": [
-        "阳光乳业",
         "冰山冷热"
       ],
       "subjects": []
     },
     {
-      "board": 2,
-      "count": 2,
+      "board": 3,
+      "count": 1,
       "prior": "—",
       "names": [
-        "富春染织",
         "新华文轩"
       ],
       "subjects": []
     },
     {
-      "board": 1,
-      "count": 14,
+      "board": 2,
+      "count": 4,
       "prior": "—",
       "names": [
-        "崇达技术",
-        "金禄电子",
-        "天津普林",
-        "骏亚科技",
-        "澳弘电子",
-        "百花医药",
-        "向日葵",
+        "吉大正元",
         "尖峰集团",
-        "华北制药",
-        "远大控股",
-        "湖南发展",
         "读者传媒",
-        "内蒙新华",
         "东方嘉盛"
+      ],
+      "subjects": []
+    },
+    {
+      "board": 1,
+      "count": 13,
+      "prior": "—",
+      "names": [
+        "保隆科技",
+        "万丰奥威",
+        "司南导航",
+        "厦门信达",
+        "金溢科技",
+        "时空科技",
+        "金盾股份",
+        "中鼎股份",
+        "宗申动力",
+        "铭科精技",
+        "华力创通",
+        "天汽模",
+        "中信海直"
       ],
       "subjects": []
     }
@@ -103,14 +111,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20261015",
-    "sampleCount": 2129,
-    "current": 12.87,
+    "endDate": "20261016",
+    "sampleCount": 2130,
+    "current": 12.88,
     "mean": 13.24,
     "std": 1.63,
     "low": 11.61,
     "high": 14.87,
-    "percentile": 46.5,
+    "percentile": 46.9,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -535,31 +543,20 @@
         "pe": 13.15
       },
       {
-        "date": "2026-10-15",
-        "pe": 12.87
+        "date": "2026-10-16",
+        "pe": 12.88
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-09-08",
-      "height": 4,
-      "names": [
-        "亚盛集团",
-        "百大集团",
-        "爱仕达"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-09-09",
       "height": 5,
       "names": [
         "百大集团"
       ],
-      "pressure": 4,
-      "state": "突破"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-09-10",
@@ -749,6 +746,15 @@
       ],
       "pressure": 10,
       "state": "承压"
+    },
+    {
+      "date": "2026-10-16",
+      "height": 11,
+      "names": [
+        "新华传媒"
+      ],
+      "pressure": 10,
+      "state": "突破"
     }
   ],
   "strategyBacktest": {
@@ -757,20 +763,36 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-10-09",
-      "2026-10-15"
+      "2026-10-12",
+      "2026-10-16"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
-    "signalDays": 0,
-    "candidates": 0,
-    "winners": 0,
-    "winRate": null,
+    "signalDays": 1,
+    "candidates": 1,
+    "winners": 1,
+    "winRate": 100.0,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
     "tableWinnerLabel": "T+1 结果",
-    "recentSignals": [],
+    "recentSignals": [
+      {
+        "signalDate": "2026-10-15",
+        "resultDate": "2026-10-16",
+        "cycle": "冰点期",
+        "seal": 83.7,
+        "highest": 5,
+        "candidates": [
+          "T日最高 5 板"
+        ],
+        "winners": [
+          "T+1最高 11 板 · 延续"
+        ],
+        "candidateCount": 1,
+        "winnerCount": 1
+      }
+    ],
     "conditions": [
       "T 日最高连板处于 4–7 板（避开无高度与 8 板以上情绪末端）",
       "T 日封板率不低于 70%",
@@ -783,15 +805,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-10-15T13:39:47+00:00"
+    "generatedAt": "2026-10-16T13:30:25+00:00"
   },
   "strategyMcpDays": {
-    "2026-08-13": {
-      "date": "2026-08-13",
-      "cycle": "",
-      "seal": 62.1,
-      "highest": 5
-    },
     "2026-08-14": {
       "date": "2026-08-14",
       "cycle": "",
@@ -1025,6 +1041,12 @@
       "cycle": "冰点期",
       "seal": 83.7,
       "highest": 5
+    },
+    "2026-10-16": {
+      "date": "2026-10-16",
+      "cycle": "修复期",
+      "seal": 55.5,
+      "highest": 11
     }
   },
   "errors": []
