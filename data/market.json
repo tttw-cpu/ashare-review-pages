@@ -1,98 +1,98 @@
 {
-  "date": "2026-10-20",
-  "source": "https://lianban.net/days/2026-10-20.html",
-  "updatedAt": "2026-10-20T13:49:46+00:00",
+  "date": "2026-10-21",
+  "source": "https://lianban.net/days/2026-10-21.html",
+  "updatedAt": "2026-10-21T14:05:57+00:00",
   "stats": {
-    "up": 54,
-    "consecutive": 14,
+    "up": 50,
+    "consecutive": 16,
     "highest": 4,
-    "down": 6,
-    "seal": 65.1,
-    "broken": 29,
-    "cycle": "修复",
+    "down": 5,
+    "seal": 72.5,
+    "broken": 19,
+    "cycle": "退潮",
     "themes": [
-      "机器人概念",
-      "端侧AI",
+      "数字经济(数据要素)",
       "AI应用",
-      "物理AI",
-      "三季报增长"
+      "海峡两岸",
+      "机器人概念",
+      "医药"
     ],
-    "temperature": "37",
-    "turnover": "1.46万亿",
-    "upDown": "3,778/1,666"
+    "temperature": "41",
+    "turnover": "1.43万亿",
+    "upDown": "1,981/3,364"
   },
   "mainlines": [
     {
+      "name": "短剧/互动影游",
+      "count": 7,
+      "leader": "南威软件"
+    },
+    {
+      "name": "云计算数据中心",
+      "count": 3,
+      "leader": "润建股份"
+    },
+    {
       "name": "机器人",
-      "count": 18,
+      "count": 4,
       "leader": "大业股份"
     },
     {
-      "name": "AI大模型/智能体",
-      "count": 15,
-      "leader": "同为股份"
-    },
-    {
-      "name": "业绩增长",
-      "count": 3,
-      "leader": "海正药业"
-    },
-    {
       "name": "大消费",
-      "count": 2,
-      "leader": "慕思股份"
+      "count": 3,
+      "leader": "百洋股份"
     }
   ],
   "ladder": [
     {
       "board": 4,
-      "count": 1,
+      "count": 3,
       "prior": "—",
       "names": [
-        "吉大正元"
+        "大业股份",
+        "海洋王",
+        "东安动力"
       ],
       "subjects": []
     },
     {
       "board": 3,
-      "count": 5,
+      "count": 1,
       "prior": "—",
       "names": [
-        "大业股份",
-        "东安动力",
-        "京城股份",
-        "长春一东",
-        "海洋王"
-      ],
-      "subjects": []
-    },
-    {
-      "board": 2,
-      "count": 8,
-      "prior": "—",
-      "names": [
-        "福莱新材",
-        "宁波东力",
-        "科森科技",
-        "浙江荣泰",
-        "慕思股份",
-        "凡拓数创",
-        "海正药业",
         "润建股份"
       ],
       "subjects": []
     },
     {
-      "board": 1,
-      "count": 6,
+      "board": 2,
+      "count": 12,
       "prior": "—",
       "names": [
+        "星光股份",
+        "南威软件",
+        "粤传媒",
+        "安记食品",
         "泰尔股份",
         "永达股份",
-        "赛摩智能",
-        "龙旗科技",
-        "长盈精密",
-        "长裕集团"
+        "百洋股份",
+        "同为股份",
+        "日海智能",
+        "移远通信",
+        "九阳股份",
+        "三峡新材"
+      ],
+      "subjects": []
+    },
+    {
+      "board": 1,
+      "count": 4,
+      "prior": "—",
+      "names": [
+        "海量数据",
+        "三维天地",
+        "慧辰股份",
+        "读者传媒"
       ],
       "subjects": []
     }
@@ -103,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20261020",
-    "sampleCount": 2132,
-    "current": 12.91,
+    "endDate": "20261021",
+    "sampleCount": 2133,
+    "current": 12.77,
     "mean": 13.24,
     "std": 1.63,
     "low": 11.61,
     "high": 14.87,
-    "percentile": 48.3,
+    "percentile": 43.8,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -535,29 +535,20 @@
         "pe": 13.15
       },
       {
-        "date": "2026-10-20",
-        "pe": 12.91
+        "date": "2026-10-21",
+        "pe": 12.77
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-09-11",
-      "height": 4,
-      "names": [
-        "瑞尔特"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-09-14",
       "height": 4,
       "names": [
         "闽东电力"
       ],
-      "pressure": 4,
-      "state": "触压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-09-15",
@@ -748,6 +739,17 @@
       ],
       "pressure": 11,
       "state": "承压"
+    },
+    {
+      "date": "2026-10-21",
+      "height": 4,
+      "names": [
+        "大业股份",
+        "海洋王",
+        "东安动力"
+      ],
+      "pressure": 11,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -756,8 +758,8 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-10-14",
-      "2026-10-20"
+      "2026-10-15",
+      "2026-10-21"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
@@ -798,15 +800,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-10-20T13:49:45+00:00"
+    "generatedAt": "2026-10-21T14:05:52+00:00"
   },
   "strategyMcpDays": {
-    "2026-08-18": {
-      "date": "2026-08-18",
-      "cycle": "",
-      "seal": 77.5,
-      "highest": 4
-    },
     "2026-08-19": {
       "date": "2026-08-19",
       "cycle": "",
@@ -1039,6 +1035,12 @@
       "date": "2026-10-20",
       "cycle": "修复期",
       "seal": 65.1,
+      "highest": 4
+    },
+    "2026-10-21": {
+      "date": "2026-10-21",
+      "cycle": "退潮期",
+      "seal": 72.5,
       "highest": 4
     }
   },
