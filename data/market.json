@@ -1,41 +1,51 @@
 {
-  "date": "2026-10-22",
-  "source": "https://lianban.net/days/2026-10-22.html",
-  "updatedAt": "2026-10-22T14:07:02+00:00",
+  "date": "2026-10-23",
+  "source": "https://lianban.net/days/2026-10-23.html",
+  "updatedAt": "2026-10-23T13:46:59+00:00",
   "stats": {
-    "up": 33,
-    "consecutive": 9,
-    "highest": 5,
-    "down": 49,
-    "seal": 58.9,
-    "broken": 23,
-    "cycle": "冰点",
+    "up": 82,
+    "consecutive": 12,
+    "highest": 6,
+    "down": 6,
+    "seal": 87.2,
+    "broken": 12,
+    "cycle": "修复",
     "themes": [
       "机器人概念",
-      "基础建设",
-      "数字经济(数据要素)",
-      "军工",
-      "其他"
+      "AI应用",
+      "芯片",
+      "三季报增长",
+      "金融概念"
     ],
-    "temperature": "5",
-    "turnover": "1.53万亿",
-    "upDown": "535/4,998"
+    "temperature": "70",
+    "turnover": "1.96万亿",
+    "upDown": "4,526/907"
   },
   "mainlines": [
     {
       "name": "机器人",
-      "count": 13,
+      "count": 38,
       "leader": "大业股份"
     },
     {
-      "name": "一带一路",
+      "name": "国产芯片",
+      "count": 6,
+      "leader": "大港股份"
+    },
+    {
+      "name": "大消费",
+      "count": 3,
+      "leader": "上海九百"
+    },
+    {
+      "name": "业绩增长",
       "count": 4,
-      "leader": "南矿集团"
+      "leader": "，前三季度净利润同比增长185.84%\">龙头 湘佳股份"
     }
   ],
   "ladder": [
     {
-      "board": 5,
+      "board": 6,
       "count": 2,
       "prior": "—",
       "names": [
@@ -46,43 +56,43 @@
     },
     {
       "board": 3,
-      "count": 2,
+      "count": 1,
       "prior": "—",
       "names": [
-        "星光股份",
-        "三峡新材"
+        "上海九百"
       ],
       "subjects": []
     },
     {
       "board": 2,
-      "count": 5,
+      "count": 9,
       "prior": "—",
       "names": [
-        "海量数据",
-        "出版传媒",
-        "哈空调",
-        "上海九百",
-        "天洋新材"
+        "赛福天",
+        "正裕工业",
+        "华阳智能",
+        "兆威机电",
+        "襄阳轴承",
+        "多伦科技",
+        "睿能科技",
+        "林州重机",
+        "南方路机"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 11,
+      "count": 8,
       "prior": "—",
       "names": [
-        "兆威机电",
-        "赛福天",
-        "安乃达",
-        "大洋电机",
-        "华阳智能",
-        "鸣志电器",
-        "正裕工业",
-        "襄阳轴承",
-        "奕帆传动",
-        "多伦科技",
-        "睿能科技"
+        "天娱数科",
+        "天奇股份",
+        "奇精机械",
+        "杰克科技",
+        "大丰实业",
+        "洛轴股份",
+        "派斯林",
+        "山东威达"
       ],
       "subjects": []
     }
@@ -93,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20261022",
-    "sampleCount": 2134,
-    "current": 12.62,
+    "endDate": "20261023",
+    "sampleCount": 2135,
+    "current": 12.74,
     "mean": 13.24,
     "std": 1.63,
     "low": 11.61,
     "high": 14.87,
-    "percentile": 40.4,
+    "percentile": 43.0,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -525,29 +535,20 @@
         "pe": 13.15
       },
       {
-        "date": "2026-10-22",
-        "pe": 12.62
+        "date": "2026-10-23",
+        "pe": 12.74
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-09-15",
-      "height": 5,
-      "names": [
-        "闽东电力"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-09-16",
       "height": 6,
       "names": [
         "闽东电力"
       ],
-      "pressure": 5,
-      "state": "突破"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-09-17",
@@ -741,6 +742,16 @@
       ],
       "pressure": 11,
       "state": "承压"
+    },
+    {
+      "date": "2026-10-23",
+      "height": 6,
+      "names": [
+        "大业股份",
+        "海洋王"
+      ],
+      "pressure": 11,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -749,8 +760,8 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-10-16",
-      "2026-10-22"
+      "2026-10-19",
+      "2026-10-23"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
@@ -791,15 +802,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-10-22T14:07:01+00:00"
+    "generatedAt": "2026-10-23T13:46:58+00:00"
   },
   "strategyMcpDays": {
-    "2026-08-20": {
-      "date": "2026-08-20",
-      "cycle": "",
-      "seal": 63.2,
-      "highest": 4
-    },
     "2026-08-21": {
       "date": "2026-08-21",
       "cycle": "",
@@ -1033,6 +1038,12 @@
       "cycle": "冰点期",
       "seal": 58.9,
       "highest": 5
+    },
+    "2026-10-23": {
+      "date": "2026-10-23",
+      "cycle": "修复期",
+      "seal": 87.2,
+      "highest": 6
     }
   },
   "errors": []
