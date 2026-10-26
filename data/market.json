@@ -1,61 +1,51 @@
 {
-  "date": "2026-10-23",
-  "source": "https://lianban.net/days/2026-10-23.html",
-  "updatedAt": "2026-10-23T13:46:59+00:00",
+  "date": "2026-10-26",
+  "source": "https://lianban.net/days/2026-10-26.html",
+  "updatedAt": "2026-10-26T15:27:02+00:00",
   "stats": {
-    "up": 82,
-    "consecutive": 12,
-    "highest": 6,
-    "down": 6,
-    "seal": 87.2,
-    "broken": 12,
-    "cycle": "修复",
+    "up": 55,
+    "consecutive": 15,
+    "highest": 4,
+    "down": 25,
+    "seal": 70.5,
+    "broken": 23,
+    "cycle": "退潮",
     "themes": [
       "机器人概念",
       "AI应用",
-      "芯片",
+      "数字经济(数据要素)",
       "三季报增长",
-      "金融概念"
+      "食品饮料"
     ],
-    "temperature": "70",
-    "turnover": "1.96万亿",
-    "upDown": "4,526/907"
+    "temperature": "25",
+    "turnover": "1.61万亿",
+    "upDown": "2,252/3,155"
   },
   "mainlines": [
     {
       "name": "机器人",
-      "count": 38,
-      "leader": "大业股份"
-    },
-    {
-      "name": "国产芯片",
-      "count": 6,
-      "leader": "大港股份"
+      "count": 26,
+      "leader": "华阳智能"
     },
     {
       "name": "大消费",
-      "count": 3,
+      "count": 6,
       "leader": "上海九百"
     },
     {
+      "name": "数据要素",
+      "count": 3,
+      "leader": "海量数据"
+    },
+    {
       "name": "业绩增长",
-      "count": 4,
-      "leader": "，前三季度净利润同比增长185.84%\">龙头 湘佳股份"
+      "count": 3,
+      "leader": "青岛食品"
     }
   ],
   "ladder": [
     {
-      "board": 6,
-      "count": 2,
-      "prior": "—",
-      "names": [
-        "大业股份",
-        "海洋王"
-      ],
-      "subjects": []
-    },
-    {
-      "board": 3,
+      "board": 4,
       "count": 1,
       "prior": "—",
       "names": [
@@ -64,35 +54,45 @@
       "subjects": []
     },
     {
-      "board": 2,
-      "count": 9,
+      "board": 3,
+      "count": 6,
       "prior": "—",
       "names": [
+        "华阳智能",
         "赛福天",
         "正裕工业",
-        "华阳智能",
-        "兆威机电",
-        "襄阳轴承",
         "多伦科技",
-        "睿能科技",
-        "林州重机",
-        "南方路机"
+        "襄阳轴承",
+        "林州重机"
+      ],
+      "subjects": []
+    },
+    {
+      "board": 2,
+      "count": 8,
+      "prior": "—",
+      "names": [
+        "杰克科技",
+        "福莱新材",
+        "万向钱潮",
+        "创维数字",
+        "锋龙股份",
+        "模塑科技",
+        "永创智能",
+        "大名城"
       ],
       "subjects": []
     },
     {
       "board": 1,
-      "count": 8,
+      "count": 5,
       "prior": "—",
       "names": [
-        "天娱数科",
-        "天奇股份",
-        "奇精机械",
-        "杰克科技",
-        "大丰实业",
-        "洛轴股份",
-        "派斯林",
-        "山东威达"
+        "兰生股份",
+        "光洋股份",
+        "大西洋",
+        "闽发铝业",
+        "百达精工"
       ],
       "subjects": []
     }
@@ -103,14 +103,14 @@
     "basis": "滚动市盈率",
     "source": "https://www.csindex.com.cn/",
     "startDate": "20180102",
-    "endDate": "20261023",
-    "sampleCount": 2135,
-    "current": 12.74,
+    "endDate": "20261026",
+    "sampleCount": 2136,
+    "current": 12.81,
     "mean": 13.24,
     "std": 1.63,
     "low": 11.61,
     "high": 14.87,
-    "percentile": 43.0,
+    "percentile": 44.9,
     "zone": "合理区",
     "formula": "全样本日度均值 ± 1 个总体标准差",
     "series": [
@@ -535,29 +535,20 @@
         "pe": 13.15
       },
       {
-        "date": "2026-10-23",
-        "pe": 12.74
+        "date": "2026-10-26",
+        "pe": 12.81
       }
     ]
   },
   "heightTrend": [
-    {
-      "date": "2026-09-16",
-      "height": 6,
-      "names": [
-        "闽东电力"
-      ],
-      "pressure": null,
-      "state": "起点"
-    },
     {
       "date": "2026-09-17",
       "height": 5,
       "names": [
         "澳弘电子"
       ],
-      "pressure": 6,
-      "state": "承压"
+      "pressure": null,
+      "state": "起点"
     },
     {
       "date": "2026-09-18",
@@ -566,7 +557,7 @@
         "锡华科技",
         "华瓷股份"
       ],
-      "pressure": 6,
+      "pressure": 5,
       "state": "承压"
     },
     {
@@ -575,8 +566,8 @@
       "names": [
         "华瓷股份"
       ],
-      "pressure": 6,
-      "state": "承压"
+      "pressure": 5,
+      "state": "触压"
     },
     {
       "date": "2026-09-22",
@@ -584,8 +575,8 @@
       "names": [
         "华瓷股份"
       ],
-      "pressure": 6,
-      "state": "触压"
+      "pressure": 5,
+      "state": "突破"
     },
     {
       "date": "2026-09-23",
@@ -752,6 +743,15 @@
       ],
       "pressure": 11,
       "state": "承压"
+    },
+    {
+      "date": "2026-10-26",
+      "height": 4,
+      "names": [
+        "上海九百"
+      ],
+      "pressure": 6,
+      "state": "承压"
     }
   ],
   "strategyBacktest": {
@@ -760,20 +760,35 @@
     "metric": "高度延续胜率（T+1最高板 ≥ T日最高板）",
     "notReturn": true,
     "dateRange": [
-      "2026-10-19",
-      "2026-10-23"
+      "2026-10-20",
+      "2026-10-26"
     ],
     "requestedSessions": 5,
     "checkedPairs": 4,
-    "signalDays": 1,
-    "candidates": 1,
+    "signalDays": 2,
+    "candidates": 2,
     "winners": 1,
-    "winRate": 100.0,
+    "winRate": 50.0,
     "candidateLabel": "研究信号",
     "winnerLabel": "高度延续",
     "tableCandidateLabel": "T 日连板结构",
     "tableWinnerLabel": "T+1 结果",
     "recentSignals": [
+      {
+        "signalDate": "2026-10-23",
+        "resultDate": "2026-10-26",
+        "cycle": "修复期",
+        "seal": 87.2,
+        "highest": 6,
+        "candidates": [
+          "T日最高 6 板"
+        ],
+        "winners": [
+          "T+1最高 4 板 · 断板"
+        ],
+        "candidateCount": 1,
+        "winnerCount": 0
+      },
       {
         "signalDate": "2026-10-21",
         "resultDate": "2026-10-22",
@@ -802,15 +817,9 @@
       "历史统计不构成对未来个股的预测或投资建议。"
     ],
     "source": "https://lianban.net/mcp",
-    "generatedAt": "2026-10-23T13:46:58+00:00"
+    "generatedAt": "2026-10-26T15:27:00+00:00"
   },
   "strategyMcpDays": {
-    "2026-08-21": {
-      "date": "2026-08-21",
-      "cycle": "",
-      "seal": 75.0,
-      "highest": 3
-    },
     "2026-08-24": {
       "date": "2026-08-24",
       "cycle": "",
@@ -1044,6 +1053,12 @@
       "cycle": "修复期",
       "seal": 87.2,
       "highest": 6
+    },
+    "2026-10-26": {
+      "date": "2026-10-26",
+      "cycle": "退潮期",
+      "seal": 70.5,
+      "highest": 4
     }
   },
   "errors": []
